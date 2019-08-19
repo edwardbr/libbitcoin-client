@@ -14,7 +14,7 @@ hunter_config(libbitcoin-system
 
 hunter_config(libbitcoin-network
     URL https://github.com/edwardbr/libbitcoin-network/archive/master.tar.gz
-    SHA1 5c04204a22b59e893c6d6dede25966cb4d04b0a8
+    SHA1 6fb03a39132d94bed5f15ce73f87f610bab0b1a6
     CMAKE_ARGS
         with-icu=NO
         )
